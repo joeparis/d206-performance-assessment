@@ -7,3 +7,4 @@
     "ruff.fixAll": true,
     "ruff.importStrategy": "fromEnvironment",
     "ruff.organizeImports": true,
+}
